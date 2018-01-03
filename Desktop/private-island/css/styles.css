@@ -1,8 +1,30 @@
 h1, h2, p, ul {
   font-family: 'Encode Sans Expanded', sans-serif;
   text-align:center;
+  color:white;
 }
 
 ul{
   list-style: none;
+}
+
+img{
+  width:500px;
+  height:auto;
+  padding:15px;
+  border-radius:50px;
+}
+
+body{
+  background-color:#01455e;
+}
+
+a {
+  color:white;
+  text-decoration: none;
+}
+
+span {
+  font-size:20px;
+  text-decoration: underline;
 }
