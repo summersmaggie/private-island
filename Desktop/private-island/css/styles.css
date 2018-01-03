@@ -1,8 +1,27 @@
 h1, h2, p, ul {
-  font-family: 'Encode Sans Expanded', sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;
   text-align:center;
 }
 
 ul{
   list-style: none;
+}
+
+body{
+  background: linear-gradient(to right, white, #41aff4);
+}
+
+img {
+  border-radius: 50%;
+  width: 50%;
+  padding: 20px;
+}
+
+span {
+  font-size: 25px;
+}
+
+a {
+  color:#0b2349;
+  text-decoration: none;
 }
