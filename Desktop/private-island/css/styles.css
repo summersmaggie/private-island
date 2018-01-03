@@ -1,0 +1,8 @@
+h1, h2, p, ul {
+  font-family: 'Encode Sans Expanded', sans-serif;
+  text-align:center;
+}
+
+ul{
+  list-style: none;
+}
